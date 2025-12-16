@@ -1,0 +1,13 @@
+body{
+    background-image: url(../images/backpic.jpg);
+}
+#image_div{
+    width: 700px;
+    height: 500px;
+    margin: 60px 0px 0px 450px;
+
+}
+#image{
+    width: 700px;
+    height: 500px;
+}
