@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/backpic.jpg);
+}
+
+#main_container{
+   background-color: rgb(251, 254, 254);
+   align-items: center;
+   height: 300px;
+   width: 425px;
+   margin-left: 550px;
+   margin-top: 40px;
+   padding: 20px;
+}
+.container{
+    background-color:rgb(170, 194, 91);
+    border: 2px solid black ;
+    margin: 40px 40px 10px 45px ;
+    padding: 10px 10px 10px 10px ;
+    font-size: large;
+    width: 300px;
+    text-align:center;
+    border: 5px solid white;
+    
+    
+}
