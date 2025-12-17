@@ -12,7 +12,7 @@ body{
  height: 260px;
  border: 2px solid black;
  width: 300px;
- margin: 120px 0px 100px 570px;
+ margin: 120px 0px 100px 38%;
  padding: 40px;
  border-radius: 30px;
  background-color: rgb(163, 179, 106);
@@ -44,3 +44,4 @@ body{
     background-color: green;
     color: white;
 }
+
